@@ -1,0 +1,50 @@
+In the data wrangling project, I gathered, assess, cleaned, stored and then proceeded to analyze & visualize the stored data.
+
+Gathering
+
+I gathered 3 datasets via different approach;
+
+1. The first dataset was twitter_archive_enhanced.csv. The dataset is a comma separated value file and it was manually downloaded. This was read into a dataframe named tweet archive.
+
+2. The second was image_predictions.tsv. The dataset is a tab separated value file and it was downloaded using code. This was also read into a dataframe named image predictions.
+
+3. The third was gathering data from Twitter API. I was provided with two options of doing this. I went with the second option where the tweet-json.txt file for the data was already provided because Twitter up to this point has not approved my request for an elevated access on their developer’s platform.
+
+The tweet-json.txt text file was loaded and I extracted the data I needed for each tweet data into a dataframe named tweet json.
+
+
+Assessing
+
+I assessed the individual dataset for quality and tidiness issues using both visual and programmatic approach.
+
+8 quality and 2 tidiness issues were identified across the 3 dataset.
+
+
+Cleaning
+
+I cleaned up the 8 quality and 2 tidiness issues identified using the 'define-code-test' approach.
+
+
+Storing
+
+I stored the cleaned datasets into 2 comma separated values files named: twitter_archive_master and image_prediction_master.
+
+
+Analzying and Visualizing Data
+
+I loaded the twitter_archive_master.csv and image_prediction_master.csv files and then proceeded to find some insights about the datasets.
+
+I answered 4 questions I posed myself. The 4 questions were:
+
+1. which dog has highest tweet engagement (RTs plus favorites) on the WeRateDogs twitter account
+
+2. which dog has the highest rating on the WeRateDogs twitter account
+
+3. which dog has the lowest rating on the WeRateDogs twitter account
+
+4. most common rating on the WeRateDogs twitter account
+
+For the visualization, I checked for the proportion of each unique value in the dog_stage column of the twitter_archive_master dataset
+
+
+

@@ -1,0 +1,3 @@
+In the analyze A/B test result project, I analyzed the results of an A/B test run by an e-commerce website.
+
+I answered the different questions posed and finally made a recommendation.

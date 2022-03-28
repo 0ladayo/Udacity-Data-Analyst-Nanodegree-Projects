@@ -1,0 +1,17 @@
+In the investigate a dataset project, I investigated the 'no show medical appointments dataset'.
+
+The dataset is a collection of over 100k medical appointments in Brazil. 
+
+Data Wrangling
+
+I loaded the dataset, checked for attributes of the dataframe such shape, missing data, duplicates among others.
+
+Issues identified were cleaned up.
+
+Exploratory Data Analysis
+
+For the EDA, I analyzed the cleaned dataset to see the relationships between multiple independents features and one depend feature (no show column) in the dataset.
+
+I analyzed for the distribution of the no show for each age group whether sms was received or not across the gender type in the dataset.
+
+I also checked the Neighbourhoods with the largest no show in appointments and investigated for trends among those neighbourhoods by checking for the relationship between the no show and the time duration between appointment day and scheduled day
