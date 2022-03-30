@@ -10,7 +10,7 @@ Issues identified were cleaned up.
 
 Exploratory Data Analysis
 
-For the EDA, I analyzed the cleaned dataset to see the relationships between multiple independents features and one depend feature (no show column) in the dataset.
+For the EDA, I analyzed the cleaned dataset to see the relationships between multiple independents features and one dependent feature (no show column) in the dataset.
 
 I analyzed for the distribution of the no show for each age group whether sms was received or not across the gender type in the dataset.
 
